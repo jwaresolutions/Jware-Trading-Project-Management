@@ -1,8 +1,8 @@
 Task 1: Project Setup and Planning
 
-Define the scope and requirements of your project. What problem will it solve? Who are the users? What features will it have?
-Set up your development environment. This includes setting up a Python environment for the backend, and a Node.js environment for the frontend.
-Set up version control for your project using a tool like Git.
+1. Define the scope and requirements of your project. 
+1. What features will it have?
+1. Set up your development environment. 
 
 Task 2: Backend Development
 
