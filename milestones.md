@@ -6,9 +6,10 @@ Task 1: Project Setup and Planning
 
 Task 2: Backend Development
 
-Design and implement the database schema.
-Develop the API endpoints using Python. You might use a framework like Django or Flask for this.
-Implement authentication and authorization for the API.
+1. Design and implement the database schema. (is a database needed?)
+1. Develop the API endpoints using Python.  (where?)
+1. Use a framework like Django or Flask for this. (framework or no framework?)
+1. Implement authentication and authorization for the API. 
 
 Task 3: Backend Testing and Deployment
 
